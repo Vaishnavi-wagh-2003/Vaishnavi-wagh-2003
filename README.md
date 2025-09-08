@@ -1,9 +1,6 @@
 # 💫 Hi 👋, I'm Vaishnavi Wagh
 **A passionate Software Developer || App Developer || Turning Ideas into Functional & Engaging Mobile Experiences || Full-Stack Learner**
 
-<p align="center">
-<img src="https://github.com/Vaishnavi-wagh-2003.png" width="200" height="200" style="border-radius:50%;" />
-</p>
 
 - 🔭 **I’m currently working on:** Full-stack projects that replicate real-world apps to sharpen my development skills.
 - 🌱 **I’m currently looking:** Innovative web/mobile applications and full-stack development projects.
