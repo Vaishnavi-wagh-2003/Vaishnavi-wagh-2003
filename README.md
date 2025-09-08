@@ -1,4 +1,9 @@
 # 💫 Hi 👋, I'm Vaishnavi Wagh
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" alt="Vaishnavi Wagh" width="200" height="200" style="border-radius:50%;" />
+</p>
+
 **A passionate Software Developer || App Developer || Turning Ideas into Functional & Engaging Mobile Experiences || Full-Stack Learner**
 
 
